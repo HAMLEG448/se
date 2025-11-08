@@ -25,6 +25,7 @@ const Sidebar = () => {
                         navigate(key)
                     }}
                     items={items}
+                    style={{background: "#bababaff"}}
                 />
             </Sider>
             <div style={{color: "#ffffffff"}}>
